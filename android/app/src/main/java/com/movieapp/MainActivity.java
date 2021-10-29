@@ -1,4 +1,4 @@
-package com.reactnativemovapp;
+package com.movieapp;
 
 import android.os.Bundle;
 

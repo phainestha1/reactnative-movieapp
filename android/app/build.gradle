@@ -130,7 +130,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.reactnativemovapp"
+        applicationId "com.movieapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-movapp",
-    "slug": "react-native-movapp",
+    "name": "movieapp",
+    "slug": "movieapp",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "react-native-movapp"
+  "name": "movieapp"
 }
